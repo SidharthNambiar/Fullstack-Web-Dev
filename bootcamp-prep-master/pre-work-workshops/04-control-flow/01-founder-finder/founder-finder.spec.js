@@ -12,7 +12,7 @@ describe('found', () => {
       'Someone else': false
     }
 
-    expect(found).toEqual(foundValues[name]);
+    expect(found).toEqual(foundValues[firstName]);
   });
 
 });
