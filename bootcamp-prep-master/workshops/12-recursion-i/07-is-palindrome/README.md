@@ -13,3 +13,4 @@ isPalindrome('NEVERODDOREVEN'); // => true
 isPalindrome('Tacocat'); // => true
 isPalindrome('SELFLESS'); // => false
 ```
+
